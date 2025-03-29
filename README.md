@@ -5,3 +5,6 @@ I am always striving to improve my skills by staying up-to-date with the latest 
 ## Authors
 
 - [@sebcwi](https://www.github.com/sebcwi)
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-cwirko/)    [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
